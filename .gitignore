@@ -1,0 +1,9 @@
+.vs/*
+*/debug/*
+debug/*
+*/x64/*
+x64/*
+*.pdb
+*.exe
+*.dll
+
