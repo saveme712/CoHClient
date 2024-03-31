@@ -1,5 +1,5 @@
 # CoHClient
-A client that allows for various manipulations of City of Heroes.
+A modification that allows for various manipulations of the City of Heroes client.
 
 ## Homecoming
 This client targets homecoming. The provided offsets are for homecoming and must be updated by hand. This can
